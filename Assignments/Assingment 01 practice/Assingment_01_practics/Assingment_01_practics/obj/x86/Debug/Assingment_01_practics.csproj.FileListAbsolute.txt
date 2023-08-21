@@ -1,0 +1,9 @@
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.csprojResolveAssemblyReference.cache
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.frm_login.resources
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.Properties.Resources.resources
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.csproj.GenerateResource.Cache
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\bin\Debug\Assingment_01_practics.exe
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\bin\Debug\Assingment_01_practics.pdb
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.exe
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.pdb
+D:\student managment system\Assingment 01 practice\Assingment_01_practics\Assingment_01_practics\obj\x86\Debug\Assingment_01_practics.frm_Add_Student.resources
